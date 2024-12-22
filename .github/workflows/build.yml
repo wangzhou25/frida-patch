@@ -1,4 +1,4 @@
-name: Florida
+name: frida-patch
 
 on:
   schedule:
